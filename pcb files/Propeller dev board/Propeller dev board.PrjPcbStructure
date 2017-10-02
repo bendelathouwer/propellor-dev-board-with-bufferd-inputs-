@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=top.SchDoc
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=U_controller|SchDesignator=U_controller|FileName=controller.SchDoc|SymbolType=Normal|RawFileName=controller.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=U_eeprom|SchDesignator=U_eeprom|FileName=eeprom.SchDoc|SymbolType=Normal|RawFileName=eeprom.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=U_programming|SchDesignator=U_programming|FileName=programming.SchDoc|SymbolType=Normal|RawFileName=programming.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=U_voeding|SchDesignator=U_voeding|FileName=voeding.SchDoc|SymbolType=Normal|RawFileName=voeding.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
